@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-ai-deepseek-example-001
+  ai:
+    openai:
+      api-key: sk-e3b91498acca434a909ffa1115823937
+      base-url: https://api.deepseek.com
+      chat:
+        options:
+          model: deepseek-chat
